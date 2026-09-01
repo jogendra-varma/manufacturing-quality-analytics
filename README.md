@@ -11,7 +11,7 @@ Dashboard file also available for download: [`powerbi/manufacturing_dashboard.pb
 ### Key Views
 | Maintenance Threshold Effect | Volume × Supplier Quality Interaction |
 |---|---|
-| ![Maintenance Chart](./docs/maintenance .png) | ![Matrix](./docs/matrix.png) |
+| ![Maintenance Chart](./docs/maintenance.png) | ![Matrix](./docs/matrix.png) |
 ## The Problem
 
 A manufacturing operation showed an overall defect rate of 84% across production records. This project investigates: **which operational factors most strongly predict defects, and where should quality-improvement effort be focused first?**
