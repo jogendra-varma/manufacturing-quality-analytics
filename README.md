@@ -6,7 +6,7 @@ Investigating what drives defect rates in a manufacturing dataset, using Azure S
 
 ![Full Dashboard](./docs/dashboard.png)
 
-Dashboard file also available for download: [`powerbi/manufacturing_dashboard.pbix`](./powerbi/manufacturing_dashboard.pbix) (open in Power BI Desktop, free).
+Dashboard file also available for download: [`powerbi/manufacturing_dashboard.pbix`](./powerbi/Mfg_AB_Testing.pbix) (open in Power BI Desktop, free).
 
 ### Key Views
 | Maintenance Threshold Effect | Volume × Supplier Quality Interaction |
