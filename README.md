@@ -4,14 +4,14 @@ Investigating what drives defect rates in a manufacturing dataset, using Azure S
 
 ## Dashboard
 
-![Full Dashboard](./docs/screenshots/dashboard.png)
+![Full Dashboard](./docs/dashboard.png)
 
 Dashboard file also available for download: [`powerbi/manufacturing_dashboard.pbix`](./powerbi/manufacturing_dashboard.pbix) (open in Power BI Desktop, free).
 
 ### Key Views
 | Maintenance Threshold Effect | Volume × Supplier Quality Interaction |
 |---|---|
-| ![Maintenance Chart](./docs/screenshots/maintenance.png) | ![Matrix](./docs/screenshots/matrix.png) |
+| ![Maintenance Chart](./docs/maintenance.png) | ![Matrix](./docs/matrix.png) |
 ## The Problem
 
 A manufacturing operation showed an overall defect rate of 84% across production records. This project investigates: **which operational factors most strongly predict defects, and where should quality-improvement effort be focused first?**
